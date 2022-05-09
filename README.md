@@ -20,8 +20,6 @@ Pensando no contexto de segurança e mobilidade nos arredores dos campus da UFAB
 1. Guilherme Gonçalves Braz
 1. Fernanda Aparecida Barbosa de Araujo
 
-* https://docs.google.com/document/d/1BIX5BvSlgJN9AZu3mExJHMdhMfb_lnKmtDAi8wCTLLA/edit
-
 <h2>Principais tecnologias</h2>
 
 Intellij IDEA Ultimate\
@@ -34,15 +32,9 @@ MySQL/MySQL Workbench
 
 Além disso, algumas da técnicas empregadas no desenvolvimento do projeto foram: testes unitários, singleton, pair-programming, refatoração, controle de versão etc.
 
-<h2>Como baixar</h2>
+<h2>Como acessar</h2>
 
 O software será acessado por meio de URL em navegadores padrões.
-
-
-<h2>Como instalar</h2>
-
-Não haverá necessidade de instalação.
-
 
 <h2>Como utilizar</h2>
 
